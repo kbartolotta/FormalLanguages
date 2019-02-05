@@ -1,0 +1,13 @@
+10 pts
+
+Katie,
+
+The project idea seems interesting; however: 
+  - it is too simple if you will make a DFA for one specific key and a master
+    key; or too complex if you do a universal DFA for keys that follow a
+    universal pattern; lets talk more.
+
+
+Peace,
+
+- Dr. Rivas
